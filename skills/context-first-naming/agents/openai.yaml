@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context-First Naming"
+  short_description: "Name code by context, not repeated prefixes"
+  default_prompt: "Use $context-first-naming to name or rename code artifacts with concise names that rely on local context."

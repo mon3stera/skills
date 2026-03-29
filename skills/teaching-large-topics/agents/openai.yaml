@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Large Topics"
+  short_description: "Build a chaptered learning path"
+  default_prompt: "Use $teaching-large-topics to teach a broad topic through a chapter-level roadmap, then teach the current chapter with examples, pitfalls, self-checks, and realistic business-oriented coding tasks."

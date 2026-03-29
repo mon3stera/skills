@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain Small Concepts"
+  short_description: "Teach one narrow concept clearly"
+  default_prompt: "Use $explaining-small-concepts to teach one specific concept in depth with intuition, definition, examples, pitfalls, and self-check questions."
